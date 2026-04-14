@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+.intellijPlatform/
+_idea-sandbox/
+
+# OS files
+.DS_Store
+
+# Keep Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
